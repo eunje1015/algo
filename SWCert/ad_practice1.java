@@ -4,6 +4,12 @@
 // 두 개 사이에 몇 개의 제품이 생산되었는 지 개수 출력
 // ex) abcd, abdc, acbd, acdb, adbc, adcb ...
 
+/**
+ * 문자열 확인
+ * @(int)ch 했을 때 97부터 a
+ * @charAt(i)
+ */
+
 import java.util.Scanner;
 import java.io.FileInputStream;
 
